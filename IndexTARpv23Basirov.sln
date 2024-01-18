@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "IndexTARpv23Basirov", "IndexTARpv23Basirov.pyproj", "{F151F6A5-FA2C-4038-ADA2-B0979560ACD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F151F6A5-FA2C-4038-ADA2-B0979560ACD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F151F6A5-FA2C-4038-ADA2-B0979560ACD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0CB58F6C-8B41-4BC9-B8EF-10B69C06F643}
+	EndGlobalSection
+EndGlobal
