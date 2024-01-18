@@ -22,3 +22,7 @@ if index==1:
     elif indeks<=40:
         answer="Tervisele ohtlik rasvumine"
     print(answer)
+else:
+    print("Kahju! See on väga kasulik info!")
+    print()
+    print("Kohtumiseni, "+nimi+"! Igavesti sinu, Python!")
